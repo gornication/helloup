@@ -1,4 +1,3 @@
 test_text
 try text
-some line
-test_
+some lin
