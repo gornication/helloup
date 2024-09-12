@@ -1,3 +1,2 @@
 test_text
 try text
-some
